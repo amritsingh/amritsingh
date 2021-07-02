@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unspoken Truth about Tech Education in India](https://levelup.gitconnected.com/unspoken-truth-about-tech-education-in-india-ac9718f9e921?source=rss-30594823f191------2)
 - [Sending HTTP Error Codes With Golang and Gin Gonic](https://levelup.gitconnected.com/sending-http-error-codes-with-golang-and-gin-gonic-d915d1dd0166?source=rss-30594823f191------2)
 - [An Analytics Data Pipeline To Get You Started](https://medium.com/geekculture/an-analytics-data-pipeline-to-get-you-started-363adbcb007?source=rss-30594823f191------2)
 - [How To Monitor Your Services Hosted On AWS EC2 Instances](https://levelup.gitconnected.com/how-to-monitor-your-services-hosted-on-aws-ec2-instances-4abbc460332?source=rss-30594823f191------2)
 - [How To Improve Your Software Design Skills At Work](https://levelup.gitconnected.com/how-to-improve-your-software-design-skills-at-work-d55544098d3d?source=rss-30594823f191------2)
-- [Golang: Beego vs Revel. How to Choose?](https://levelup.gitconnected.com/golang-beego-vs-revel-how-to-choose-63ee8f081bc3?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
