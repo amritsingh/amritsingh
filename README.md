@@ -4,7 +4,8 @@
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me @amritsingh
+- 📫 How to reach me 
+     - At [github](https://github.com/amritsingh/)
      - I write on [medium](https://singhamrit.medium.com/)
      - Connect on [LinkedIn](https://www.linkedin.com/in/amrits/)
 
