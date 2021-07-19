@@ -19,6 +19,8 @@ amritsingh/amritsingh is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+<br />
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -28,6 +30,8 @@ You can click the Preview link to take a look at your changes.
 - [Do Not Join A Large (Service) Company At Entry Level (in India)](https://medium.com/geekculture/do-not-join-a-large-service-company-at-entry-level-in-india-b1724758ebf9?source=rss-30594823f191------2)
 - [Unspoken Truth about Tech Education in India](https://levelup.gitconnected.com/unspoken-truth-about-tech-education-in-india-ac9718f9e921?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
+
+<br />
 
 [github]: https://github.com/amritsingh/
 [twitter]: https://twitter.com/_amrit_
