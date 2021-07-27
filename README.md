@@ -45,11 +45,11 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How A Simple Conversation Had Put Me On The Path Of Spirituality](https://byrslf.co/how-a-simple-conversation-had-put-me-on-the-path-of-spirituality-4e6931111f73?source=rss-30594823f191------2)
 - [6 Step Approach To Transition From Junior Developer To Senior Developer](https://levelup.gitconnected.com/6-step-approach-to-transition-from-junior-developer-to-senior-developer-59550129179f?source=rss-30594823f191------2)
 - [When Does Your Startup Need a Project Manager and How To Hire One](https://levelup.gitconnected.com/when-does-your-startup-need-a-project-manager-and-how-to-hire-one-44a72c8b77f7?source=rss-30594823f191------2)
 - [How Corporate Culture Can Slowly Turn You Into A Beast](https://levelup.gitconnected.com/how-corporate-culture-can-slowly-turn-you-into-a-beast-77ac6c918ddf?source=rss-30594823f191------2)
 - [Do Not Join A Large (Service) Company At Entry Level (in India)](https://medium.com/geekculture/do-not-join-a-large-service-company-at-entry-level-in-india-b1724758ebf9?source=rss-30594823f191------2)
-- [Unspoken Truth about Tech Education in India](https://levelup.gitconnected.com/unspoken-truth-about-tech-education-in-india-ac9718f9e921?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
