@@ -45,11 +45,11 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microservices are great. But Don’t Use Microservices for the Heck of It!](https://levelup.gitconnected.com/microservices-are-great-but-dont-use-microservices-for-the-heck-of-it-12d8ed75550a?source=rss-30594823f191------2)
+- [Relational vs. Non-Relational Databases](https://levelup.gitconnected.com/relational-vs-non-relational-databases-6d9e08866ad0?source=rss-30594823f191------2)
 - [I Cancelled Austria Tour And Went To Sikkim. It Was An Awesome Experience](https://byrslf.co/i-cancelled-austria-tour-and-went-to-sikkim-it-was-an-awesome-experience-bfa766bae825?source=rss-30594823f191------2)
 - [Don’t Travel To Europe, Go On An Adventurous Motorcycle Trip To Ladakh Instead](https://byrslf.co/dont-travel-to-europe-go-on-an-adventurous-motorcycle-trip-to-ladakh-instead-9dbe277b595e?source=rss-30594823f191------2)
 - [5 Most Important Traits I Look For When I Hire A Developer](https://levelup.gitconnected.com/5-most-important-traits-i-look-for-when-i-hire-a-developer-7aa557bc4410?source=rss-30594823f191------2)
-- [How A Simple Conversation Had Put Me On The Path Of Spirituality](https://byrslf.co/how-a-simple-conversation-had-put-me-on-the-path-of-spirituality-4e6931111f73?source=rss-30594823f191------2)
-- [6 Step Approach To Transition From Junior Developer To Senior Developer](https://levelup.gitconnected.com/6-step-approach-to-transition-from-junior-developer-to-senior-developer-59550129179f?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
