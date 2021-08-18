@@ -46,11 +46,11 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Aspects Of Design That Make Its Review More Important Than That Of Code](https://levelup.gitconnected.com/7-aspects-of-design-that-make-its-review-more-important-than-that-of-code-51d36a546373?source=rss-30594823f191------2)
 - [Ride To The Country That Charges Tourists Up To $250 Per Day](https://byrslf.co/ride-to-the-country-that-charges-tourists-up-to-250-per-day-4e8f5c7bb743?source=rss-30594823f191------2)
 - [Why You Should Scan Packages in Ruby Applications](https://levelup.gitconnected.com/why-you-should-scan-packages-in-ruby-applications-327dd8324f05?source=rss-30594823f191------2)
 - [Microservices are great. But Don’t Use Microservices for the Heck of It!](https://levelup.gitconnected.com/microservices-are-great-but-dont-use-microservices-for-the-heck-of-it-12d8ed75550a?source=rss-30594823f191------2)
 - [Relational vs. Non-Relational Databases](https://levelup.gitconnected.com/relational-vs-non-relational-databases-6d9e08866ad0?source=rss-30594823f191------2)
-- [I Cancelled Austria Tour And Went To Sikkim. It Was An Awesome Experience](https://byrslf.co/i-cancelled-austria-tour-and-went-to-sikkim-it-was-an-awesome-experience-bfa766bae825?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
