@@ -46,11 +46,11 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Work From Home Has Changed And Became Less Desirable In last 18 Months](https://medium.com/illumination/how-work-from-home-has-changed-and-became-less-desirable-in-last-18-months-5dd0fed2c8e4?source=rss-30594823f191------2)
 - [10 Best Journeys For Motorcyclists In India](https://singhamrit.medium.com/10-best-journeys-for-motorcyclists-in-india-4d72b6dc36a?source=rss-30594823f191------2)
 - [How Money Saving Psychology Became an Expensive Affair](https://medium.com/the-ascent/how-money-saving-psychology-became-an-expensive-affair-f0ccce0141d8?source=rss-30594823f191------2)
 - [I Had Skills When I Graduated, But Could Not Get A Job For Months](https://medium.com/illumination/i-had-skills-when-i-graduated-but-could-not-get-a-job-for-months-3fca053454f3?source=rss-30594823f191------2)
 - [7 Aspects Of Design That Make Its Review More Important Than That Of Code](https://levelup.gitconnected.com/7-aspects-of-design-that-make-its-review-more-important-than-that-of-code-51d36a546373?source=rss-30594823f191------2)
-- [Ride To The Country That Charges Tourists Up To $250 Per Day](https://byrslf.co/ride-to-the-country-that-charges-tourists-up-to-250-per-day-4e8f5c7bb743?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
