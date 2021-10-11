@@ -46,11 +46,11 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Essential Tips to Avoid Work From Home Burnout](https://medium.com/illumination/10-essential-tips-to-avoid-work-from-home-burnout-85addb964eb?source=rss-30594823f191------2)
 - [5 Additional Skills a Developer Should Learn To Improve Productivity](https://levelup.gitconnected.com/5-additional-skills-a-developer-should-learn-to-improve-productivity-ab0228b19f44?source=rss-30594823f191------2)
 - [4 Things You Don’t Actually Need To Be a Top Software Developer](https://medium.com/geekculture/4-things-you-dont-actually-need-to-be-a-top-software-developer-38e1ddd4ea83?source=rss-30594823f191------2)
 - [How I Transitioned from Embedded Engineer to Cloud Developer](https://levelup.gitconnected.com/how-i-transitioned-from-embedded-engineer-to-cloud-developer-c6b1470c069a?source=rss-30594823f191------2)
 - [How Work From Home Has Changed And Became Less Desirable In last 18 Months](https://medium.com/illumination/how-work-from-home-has-changed-and-became-less-desirable-in-last-18-months-5dd0fed2c8e4?source=rss-30594823f191------2)
-- [10 Best Journeys For Motorcyclists In India](https://singhamrit.medium.com/10-best-journeys-for-motorcyclists-in-india-4d72b6dc36a?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
