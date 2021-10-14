@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Most Get the 80/20 Rule Wrong in Software Development](https://levelup.gitconnected.com/why-most-get-the-80-20-rule-wrong-in-software-development-1ff2bc35260f?source=rss-30594823f191------2)
 - [10 Essential Tips to Avoid Work From Home Burnout](https://medium.com/illumination/10-essential-tips-to-avoid-work-from-home-burnout-85addb964eb?source=rss-30594823f191------2)
 - [5 Additional Skills a Developer Should Learn To Improve Productivity](https://levelup.gitconnected.com/5-additional-skills-a-developer-should-learn-to-improve-productivity-ab0228b19f44?source=rss-30594823f191------2)
 - [4 Things You Don’t Actually Need To Be a Top Software Developer](https://medium.com/geekculture/4-things-you-dont-actually-need-to-be-a-top-software-developer-38e1ddd4ea83?source=rss-30594823f191------2)
 - [How I Transitioned from Embedded Engineer to Cloud Developer](https://levelup.gitconnected.com/how-i-transitioned-from-embedded-engineer-to-cloud-developer-c6b1470c069a?source=rss-30594823f191------2)
-- [How Work From Home Has Changed And Became Less Desirable In last 18 Months](https://medium.com/illumination/how-work-from-home-has-changed-and-became-less-desirable-in-last-18-months-5dd0fed2c8e4?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
