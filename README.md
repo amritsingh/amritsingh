@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://singhamrit.medium.com/](https://singhamrit.medium.com/)
 
-- 💬 Ask me about **Ruby on Rails, Python, Golang, Gin Gonic, Revel**
+- 💬 Ask me about **Ruby on Rails, Python, Golang, Gin Gonic, Revel, Devops, ML, AI, and Cloud Technology**
 
 - 📫 How to reach me **amrit0403@gmail.com**
 
