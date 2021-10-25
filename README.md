@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Motorcycle Trip Makes You Know Yourself Better](https://medium.com/indian-thoughts/how-motorcycle-trip-makes-you-know-yourself-better-7b42f584ceb4?source=rss-30594823f191------2)
 - [Managing Remote Teams Can Be Hard! Here Are A Few Tips](https://medium.com/illumination/managing-remote-teams-can-be-hard-here-are-a-few-tips-7939d1efad53?source=rss-30594823f191------2)
 - [5 Reasons Why A You Should Learn C As Your First Language](https://levelup.gitconnected.com/5-reasons-why-a-you-should-learn-c-as-your-first-language-7db054620bc0?source=rss-30594823f191------2)
 - [Why Most Get the 80/20 Rule Wrong in Software Development](https://levelup.gitconnected.com/why-most-get-the-80-20-rule-wrong-in-software-development-1ff2bc35260f?source=rss-30594823f191------2)
 - [10 Essential Tips to Avoid Work From Home Burnout](https://medium.com/illumination/10-essential-tips-to-avoid-work-from-home-burnout-85addb964eb?source=rss-30594823f191------2)
-- [5 Additional Skills a Developer Should Learn To Improve Productivity](https://levelup.gitconnected.com/5-additional-skills-a-developer-should-learn-to-improve-productivity-ab0228b19f44?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
