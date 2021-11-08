@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Good For You — Switching Jobs Fast Or Staying In One Company](https://medium.com/illumination/what-is-good-for-you-switching-jobs-fast-or-staying-in-one-company-88975897064b?source=rss-30594823f191------2)
 - [10 Programming Practices Fresh Developers Should Adopt](https://levelup.gitconnected.com/10-programming-practices-fresh-developers-should-adopt-be28602038fe?source=rss-30594823f191------2)
 - [The Way Group Chat Is Used At Work Stresses The Hell Out Of Your Team](https://levelup.gitconnected.com/the-way-group-chat-is-used-at-work-stresses-the-hell-out-of-your-team-2c70c52cb086?source=rss-30594823f191------2)
 - [How Motorcycle Trip Makes You Know Yourself Better](https://medium.com/indian-thoughts/how-motorcycle-trip-makes-you-know-yourself-better-7b42f584ceb4?source=rss-30594823f191------2)
 - [Managing Remote Teams Can Be Hard! Here Are A Few Tips](https://medium.com/illumination/managing-remote-teams-can-be-hard-here-are-a-few-tips-7939d1efad53?source=rss-30594823f191------2)
-- [5 Reasons Why A You Should Learn C As Your First Language](https://levelup.gitconnected.com/5-reasons-why-a-you-should-learn-c-as-your-first-language-7db054620bc0?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
