@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Was Shocked To Catch A Candidate Cheating In An Online Interview](https://levelup.gitconnected.com/i-was-shocked-to-catch-a-candidate-cheating-in-an-online-interview-2441fef0ab4?source=rss-30594823f191------2)
 - [Why You Should Master SQL Before Calling Yourself Data Scientist](https://levelup.gitconnected.com/why-you-should-master-sql-before-calling-yourself-data-scientist-5b2982b7ff97?source=rss-30594823f191------2)
 - [Should I Use MongoDB or PostgreSQL?](https://medium.com/geekculture/should-i-use-mongodb-or-postgresql-ba2c1bb8b768?source=rss-30594823f191------2)
 - [What Is Good For You — Switching Jobs Fast Or Staying In One Company](https://medium.com/illumination/what-is-good-for-you-switching-jobs-fast-or-staying-in-one-company-88975897064b?source=rss-30594823f191------2)
 - [10 Programming Practices Fresh Developers Should Adopt](https://levelup.gitconnected.com/10-programming-practices-fresh-developers-should-adopt-be28602038fe?source=rss-30594823f191------2)
-- [The Way Group Chat Is Used At Work Stresses The Hell Out Of Your Team](https://levelup.gitconnected.com/the-way-group-chat-is-used-at-work-stresses-the-hell-out-of-your-team-2c70c52cb086?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
