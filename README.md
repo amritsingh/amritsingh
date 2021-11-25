@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Not Completely Rely On The Startup You Work For. Build Plan B!](https://medium.com/the-side-hustle-club/why-you-should-not-completely-rely-on-the-startup-you-work-for-build-plan-b-fc5e97151941?source=rss-30594823f191------2)
 - [A Few Bad Habits I Suffered From As A Programmer](https://levelup.gitconnected.com/a-few-bad-habits-i-suffered-from-as-a-programmer-d070d50a9be3?source=rss-30594823f191------2)
 - [I Was Shocked To Catch A Candidate Cheating In An Online Interview](https://levelup.gitconnected.com/i-was-shocked-to-catch-a-candidate-cheating-in-an-online-interview-2441fef0ab4?source=rss-30594823f191------2)
 - [Why You Should Master SQL Before Calling Yourself Data Scientist](https://levelup.gitconnected.com/why-you-should-master-sql-before-calling-yourself-data-scientist-5b2982b7ff97?source=rss-30594823f191------2)
 - [Should I Use MongoDB or PostgreSQL?](https://medium.com/geekculture/should-i-use-mongodb-or-postgresql-ba2c1bb8b768?source=rss-30594823f191------2)
-- [What Is Good For You — Switching Jobs Fast Or Staying In One Company](https://medium.com/illumination/what-is-good-for-you-switching-jobs-fast-or-staying-in-one-company-88975897064b?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
