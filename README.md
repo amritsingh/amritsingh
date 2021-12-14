@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Side Hustles I Will Take Up In 2022 As A Software Developer](https://levelup.gitconnected.com/top-5-side-hustles-i-will-take-up-in-2022-as-a-software-developer-e263e578b58e?source=rss-30594823f191------2)
 - [About Me — Amrit Pal Singh](https://medium.com/about-me-stories/about-me-amrit-pal-singh-33cf8abc2b63?source=rss-30594823f191------2)
 - [Use God of War as A Template for Bootstrapping Startups](https://medium.com/illumination/use-god-of-war-as-a-template-for-bootstrapping-startups-274a9901cf23?source=rss-30594823f191------2)
 - [How Doing Queries In Views Can Degrade The Performance Of Your Application](https://levelup.gitconnected.com/how-doing-queries-in-views-can-degrade-the-performance-of-your-application-bf737622fdc4?source=rss-30594823f191------2)
 - [Why You Should Not Completely Rely On The Startup You Work For. Build Plan B!](https://medium.com/the-side-hustle-club/why-you-should-not-completely-rely-on-the-startup-you-work-for-build-plan-b-fc5e97151941?source=rss-30594823f191------2)
-- [A Few Bad Habits I Suffered From As A Programmer](https://levelup.gitconnected.com/a-few-bad-habits-i-suffered-from-as-a-programmer-d070d50a9be3?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
