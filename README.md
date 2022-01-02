@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Want To 10X Your Earning On Medium, Do This](https://medium.com/writers-blokke/want-to-10x-your-earning-on-medium-do-this-60087d00133b?source=rss-30594823f191------2)
 - [Want To Go Viral, Express Your Polarized  Views And Share Your Experience!](https://medium.com/illumination/want-to-go-viral-express-your-polarized-views-and-your-story-b38420623c6e?source=rss-30594823f191------2)
 - [Top Things To Take Care Of While Building MVP And Why Many Get It Wrong](https://levelup.gitconnected.com/top-things-to-take-care-of-while-building-mvp-and-why-many-get-it-wrong-bb1957f69fd4?source=rss-30594823f191------2)
 - [Should You Google In An Interview?](https://levelup.gitconnected.com/should-you-google-in-an-interview-a9a33dfccc49?source=rss-30594823f191------2)
 - [What Indian Police Should Learn from Bhutan Cops](https://byrslf.co/what-indian-police-should-learn-from-bhutan-cops-554275ec9241?source=rss-30594823f191------2)
-- [My Profile Page! Let’s Connect…](https://singhamrit.medium.com/my-profile-page-lets-connect-4342e087799f?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
