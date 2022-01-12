@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Can We Have Only Meaningful Meetings in 2022](https://levelup.gitconnected.com/can-we-have-only-meaningful-meetings-in-2022-49432e904a81?source=rss-30594823f191------2)
 - [Balancing Between Microservices And Monolithic Architectures Is An Art](https://levelup.gitconnected.com/balancing-between-microservices-and-monolithic-architectures-is-an-art-958976a7b15c?source=rss-30594823f191------2)
 - [How Intense Focus Is Making Me Productive To Juggle Side Hustles Along With 9–5](https://themakingofamillionaire.com/how-intense-focus-is-making-me-productive-to-juggle-side-hustles-along-with-9-5-5e514a226e9f?source=rss-30594823f191------2)
 - [Is It Worth Learning Ruby &lpar;On Rails&rpar; in 2022](https://medium.com/geekculture/is-it-worth-learning-ruby-on-rails-in-2022-fb7cadf37bd3?source=rss-30594823f191------2)
 - [Why You Should Learn Go In 2022](https://levelup.gitconnected.com/should-you-be-learning-go-in-2022-55ea75170cf9?source=rss-30594823f191------2)
-- [Want To 10X Your Earning On Medium, Do This](https://medium.com/writers-blokke/want-to-10x-your-earning-on-medium-do-this-60087d00133b?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
