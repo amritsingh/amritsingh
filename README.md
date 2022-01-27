@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate DevOps Roadmap For Newbies](https://levelup.gitconnected.com/the-ultimate-devops-roadmap-for-newbies-65ea10a0c115?source=rss-30594823f191------2)
 - [From Zero to Star Programmer — Ultimate Roadmap](https://medium.com/noob2star/from-zero-to-star-programmer-ultimate-roadmap-79ba5554d1c3?source=rss-30594823f191------2)
 - [Metaverse: Welcome to the Matrix](https://medium.com/technology-hits/metaverse-welcome-to-the-matrix-d497f998878d?source=rss-30594823f191------2)
 - [How Much You Should Know As A Fresh Developer](https://medium.com/noob2star/how-much-you-should-know-as-a-fresh-developer-38d9bf0c1e69?source=rss-30594823f191------2)
 - [Can We Have Only Meaningful Meetings in 2022](https://levelup.gitconnected.com/can-we-have-only-meaningful-meetings-in-2022-49432e904a81?source=rss-30594823f191------2)
-- [Balancing Between Microservices And Monolithic Architectures Is An Art](https://levelup.gitconnected.com/balancing-between-microservices-and-monolithic-architectures-is-an-art-958976a7b15c?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
