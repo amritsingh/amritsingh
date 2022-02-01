@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Write Tech Blogs: A Newbie-Friendly Guide](https://javascript.plainenglish.io/how-to-write-tech-blogs-a-newbie-friendly-guide-9d8ffef56812?source=rss-30594823f191------2)
 - [How to Master Data Structures &amp; Algorithms](https://medium.com/noob2star/how-to-master-data-structures-algorithms-1c91f74c5e2f?source=rss-30594823f191------2)
 - [The Ultimate DevOps Roadmap For Newbies](https://levelup.gitconnected.com/the-ultimate-devops-roadmap-for-newbies-65ea10a0c115?source=rss-30594823f191------2)
 - [From Zero to Star Programmer — Ultimate Roadmap](https://medium.com/noob2star/from-zero-to-star-programmer-ultimate-roadmap-79ba5554d1c3?source=rss-30594823f191------2)
 - [Metaverse: Welcome to the Matrix](https://medium.com/technology-hits/metaverse-welcome-to-the-matrix-d497f998878d?source=rss-30594823f191------2)
-- [How Much You Should Know As A Fresh Developer](https://medium.com/noob2star/how-much-you-should-know-as-a-fresh-developer-38d9bf0c1e69?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
