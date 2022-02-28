@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Agile Learning is the only way to Learn — A guide for Newbies](https://medium.com/noob2star/agile-learning-is-the-only-way-to-learn-a-guide-for-newbies-f591582cbca4?source=rss-30594823f191------2)
 - [Spirituality Behind the Architectural Brilliance of the Golden Temple](https://medium.com/know-thyself-heal-thyself/spirituality-behind-the-architectural-brilliance-of-the-golden-temple-a905356d2b1f?source=rss-30594823f191------2)
 - [Why Did I Change My Hiring Process? It All Started With a Disastrous Interview](https://levelup.gitconnected.com/why-did-i-change-my-hiring-process-it-all-started-with-a-disastrous-interview-1781809a7839?source=rss-30594823f191------2)
 - [More Developers Should Use Linux. Not Sure Why They Don’t!](https://medium.com/noob2star/more-developers-should-use-linux-not-sure-why-they-dont-e1111c4c967b?source=rss-30594823f191------2)
 - [Habits New Developer Should Build](https://medium.com/noob2star/habits-new-developer-should-build-170d32d6ac43?source=rss-30594823f191------2)
-- [Why Do Developers Waste Time in Unnecessary Meetings](https://levelup.gitconnected.com/why-do-developers-waste-time-in-unnecessary-meetings-2b8583745e22?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
