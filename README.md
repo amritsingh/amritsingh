@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Harsh Truth — Technology and AI will take away a lot of jobs](https://levelup.gitconnected.com/harsh-truth-technology-and-ai-will-take-away-a-lot-of-jobs-b24ec3a6369c?source=rss-30594823f191------2)
 - [Look Past the Velocity of Your Team, There Are Other Important Parameters](https://javascript.plainenglish.io/look-past-the-velocity-of-your-team-there-are-other-important-parameters-e3b1a4210040?source=rss-30594823f191------2)
 - [What the heck is Service Mesh?](https://levelup.gitconnected.com/what-the-heck-is-service-mesh-a2471ddc6f3b?source=rss-30594823f191------2)
 - [Agile Learning is the only way to Learn — A guide for Newbies](https://medium.com/noob2star/agile-learning-is-the-only-way-to-learn-a-guide-for-newbies-f591582cbca4?source=rss-30594823f191------2)
 - [Spirituality Behind the Architectural Brilliance of the Golden Temple](https://medium.com/know-thyself-heal-thyself/spirituality-behind-the-architectural-brilliance-of-the-golden-temple-a905356d2b1f?source=rss-30594823f191------2)
-- [Why Did I Change My Hiring Process? It All Started With a Disastrous Interview](https://levelup.gitconnected.com/why-did-i-change-my-hiring-process-it-all-started-with-a-disastrous-interview-1781809a7839?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
