@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why the Heck Do We Need Recursion?](https://medium.com/noob2star/why-the-heck-do-we-need-recursion-501fe7022b88?source=rss-30594823f191------2)
 - [5 Ways to Overcome Writer’s Block as a Technical Writer](https://levelup.gitconnected.com/5-ways-to-overcome-writers-block-as-a-technical-writer-20348f88679e?source=rss-30594823f191------2)
 - [5 Ways to Improve Your Programming Logic](https://medium.com/noob2star/5-ways-to-improve-your-programming-logic-89b6d950f67e?source=rss-30594823f191------2)
 - [4 Questions You Need to Ask Yourselves as a Software Developer](https://medium.datadriveninvestor.com/4-questions-you-need-to-ask-yourselves-as-a-software-developer-e4b5016045a2?source=rss-30594823f191------2)
 - [Harsh Truth — Technology and AI will take away a lot of jobs](https://levelup.gitconnected.com/harsh-truth-technology-and-ai-will-take-away-a-lot-of-jobs-b24ec3a6369c?source=rss-30594823f191------2)
-- [Look Past the Velocity of Your Team, There Are Other Important Parameters](https://javascript.plainenglish.io/look-past-the-velocity-of-your-team-there-are-other-important-parameters-e3b1a4210040?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
