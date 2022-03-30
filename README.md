@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Become a Hyper-Focused Developer and Achieve Your Goals Faster](https://levelup.gitconnected.com/how-to-become-a-hyper-focused-developer-and-achieve-your-goals-faster-c7d788d97492?source=rss-30594823f191------2)
 - [Linux Concepts That Make It Unique](https://medium.com/noob2star/linux-concepts-that-make-it-unique-a4b9bb0f7234?source=rss-30594823f191------2)
 - [My Playbook to Run Effective Meetings](https://levelup.gitconnected.com/my-playbook-to-run-effective-meetings-78e625c17585?source=rss-30594823f191------2)
 - [Why the Heck Do We Need Recursion?](https://medium.com/noob2star/why-the-heck-do-we-need-recursion-501fe7022b88?source=rss-30594823f191------2)
 - [5 Ways to Overcome Writer’s Block as a Technical Writer](https://levelup.gitconnected.com/5-ways-to-overcome-writers-block-as-a-technical-writer-20348f88679e?source=rss-30594823f191------2)
-- [5 Ways to Improve Your Programming Logic](https://medium.com/noob2star/5-ways-to-improve-your-programming-logic-89b6d950f67e?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
