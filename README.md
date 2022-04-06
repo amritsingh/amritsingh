@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Incorrect Way to Learn Programming](https://medium.com/noob2star/the-incorrect-way-to-learn-programming-165a3d0650fe?source=rss-30594823f191------2)
 - [Golang — How to Handle Database Migrations](https://levelup.gitconnected.com/golang-how-to-handle-database-migrations-ad676e6159f?source=rss-30594823f191------2)
 - [Using Incredibuild for CI Build Pipeline Acceleration](https://levelup.gitconnected.com/using-incredibuild-for-ci-build-pipeline-acceleration-15dffd9b1eb9?source=rss-30594823f191------2)
 - [How to Become a Hyper-Focused Developer and Achieve Your Goals Faster](https://levelup.gitconnected.com/how-to-become-a-hyper-focused-developer-and-achieve-your-goals-faster-c7d788d97492?source=rss-30594823f191------2)
 - [Linux Concepts That Make It Unique](https://medium.com/noob2star/linux-concepts-that-make-it-unique-a4b9bb0f7234?source=rss-30594823f191------2)
-- [My Playbook to Run Effective Meetings](https://levelup.gitconnected.com/my-playbook-to-run-effective-meetings-78e625c17585?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
