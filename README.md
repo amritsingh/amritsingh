@@ -18,7 +18,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Don’t Join the Great Resignation. Find Meaningful Work Instead](https://medium.com/illumination/dont-join-the-great-resignation-find-meaningful-work-instead-1b27ef7796dc?source=rss-30594823f191------2)
-- [Blockchain for Software Developers](https://levelup.gitconnected.com/blockchain-for-software-developers-b1b86c0e8516?source=rss-30594823f191------2)
+- [How Blockchain Is Going to Change Software Industry](https://levelup.gitconnected.com/blockchain-for-software-developers-b1b86c0e8516?source=rss-30594823f191------2)
 - [The Ultimate Data Science Roadmap](https://levelup.gitconnected.com/the-ultimate-data-science-roadmap-17c86d93dff0?source=rss-30594823f191------2)
 - [One Habit that changed my Perspective toward Learning, Wealth, and Life](https://medium.com/feedium/one-habit-that-changed-my-perspective-toward-learning-wealth-and-life-c6856cbbc91?source=rss-30594823f191------2)
 - [The Incorrect Way to Learn Programming](https://medium.com/noob2star/the-incorrect-way-to-learn-programming-165a3d0650fe?source=rss-30594823f191------2)
