@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Earth day Story — The State of India That Is Plastic-Free](https://singhamrit.medium.com/my-earth-day-story-the-state-of-india-that-is-plastic-free-e7038879f254?source=rss-30594823f191------2)
 - [A Few Tiny Rituals to Achieve Peak Productivity as a Software Developer](https://levelup.gitconnected.com/a-few-tiny-rituals-to-achieve-peak-productivity-as-a-software-developer-5d93baff1288?source=rss-30594823f191------2)
 - [Don’t Join the Great Resignation. Find Meaningful Work Instead](https://medium.com/illumination/dont-join-the-great-resignation-find-meaningful-work-instead-1b27ef7796dc?source=rss-30594823f191------2)
 - [How Blockchain Is Going to Change Software Industry](https://levelup.gitconnected.com/blockchain-for-software-developers-b1b86c0e8516?source=rss-30594823f191------2)
 - [The Ultimate Data Science Roadmap](https://levelup.gitconnected.com/the-ultimate-data-science-roadmap-17c86d93dff0?source=rss-30594823f191------2)
-- [One Habit that changed my Perspective toward Learning, Wealth, and Life](https://medium.com/feedium/one-habit-that-changed-my-perspective-toward-learning-wealth-and-life-c6856cbbc91?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
