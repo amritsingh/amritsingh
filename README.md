@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Can’t Software Developers Get the Estimates Right](https://levelup.gitconnected.com/why-cant-software-developers-get-the-estimates-right-be5f3595f42e?source=rss-30594823f191------2)
 - [Learning to Code Is Not Enough. You Need to Build Stuff](https://medium.com/noob2star/learning-to-code-is-not-enough-you-need-to-build-stuff-e138b6b75cbf?source=rss-30594823f191------2)
 - [My Earth day Story — The State of India That Is Plastic-Free](https://singhamrit.medium.com/my-earth-day-story-the-state-of-india-that-is-plastic-free-e7038879f254?source=rss-30594823f191------2)
 - [A Few Tiny Rituals to Achieve Peak Productivity as a Software Developer](https://levelup.gitconnected.com/a-few-tiny-rituals-to-achieve-peak-productivity-as-a-software-developer-5d93baff1288?source=rss-30594823f191------2)
 - [Don’t Join the Great Resignation. Find Meaningful Work Instead](https://medium.com/illumination/dont-join-the-great-resignation-find-meaningful-work-instead-1b27ef7796dc?source=rss-30594823f191------2)
-- [How Blockchain Is Going to Change Software Industry](https://levelup.gitconnected.com/blockchain-for-software-developers-b1b86c0e8516?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
