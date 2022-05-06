@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Want a Developer-Friendly and Productive Ubuntu? Use These Customisations](https://levelup.gitconnected.com/want-a-developer-friendly-and-productive-ubuntu-use-these-customisations-c03a28b60beb?source=rss-30594823f191------2)
 - [How to Identify an Inexperienced but Narcissistic Developer](https://javascript.plainenglish.io/how-to-identify-an-inexperienced-but-narcissistic-developer-367f3e34ddae?source=rss-30594823f191------2)
 - [Bad Agile Is Injurious To Your Product’s Health](https://levelup.gitconnected.com/bad-agile-can-injure-your-products-health-a627f23514ef?source=rss-30594823f191------2)
 - [Why Can’t Software Developers Get the Estimates Right](https://levelup.gitconnected.com/why-cant-software-developers-get-the-estimates-right-be5f3595f42e?source=rss-30594823f191------2)
 - [Learning to Code Is Not Enough. You Need to Build Stuff](https://medium.com/noob2star/learning-to-code-is-not-enough-you-need-to-build-stuff-e138b6b75cbf?source=rss-30594823f191------2)
-- [My Earth day Story — The State of India That Is Plastic-Free](https://singhamrit.medium.com/my-earth-day-story-the-state-of-india-that-is-plastic-free-e7038879f254?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
