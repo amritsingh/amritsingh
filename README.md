@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Avoid Reading Too Many Side-Hustle Stories. It’s Addictive Like Porn!](https://medium.com/feedium/avoid-reading-too-many-side-hustle-stories-its-addictive-like-porn-d5814c1376d6?source=rss-30594823f191------2)
 - [100 Blogs So Far, 90% Have Been Curated but Only a Few Have Gone Viral](https://medium.com/writers-blokke/100-blogs-so-far-90-have-been-curated-but-only-a-few-have-gone-viral-f6fefb1934f6?source=rss-30594823f191------2)
 - [No Tesla in India, Don’t Worry! Tata EVs Are Here for You](https://medium.com/illumination/no-tesla-in-india-dont-worry-tata-evs-are-here-for-you-ac822b362831?source=rss-30594823f191------2)
 - [5 Income Streams I Wish I Focused On Early In My Career As Software Developer](https://levelup.gitconnected.com/5-income-streams-i-wish-i-focused-on-early-in-my-career-as-software-developer-1b175cd20d65?source=rss-30594823f191------2)
 - [Want a Developer-Friendly and Productive Ubuntu? Use These Customisations](https://levelup.gitconnected.com/want-a-developer-friendly-and-productive-ubuntu-use-these-customisations-c03a28b60beb?source=rss-30594823f191------2)
-- [How to Identify an Inexperienced but Narcissistic Developer](https://javascript.plainenglish.io/how-to-identify-an-inexperienced-but-narcissistic-developer-367f3e34ddae?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
