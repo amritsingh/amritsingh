@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Typo Can Cause $18 Million Dollars](https://medium.com/noob2star/a-typo-can-cause-18-million-dollars-97087261cab5?source=rss-30594823f191------2)
 - [I Never Had to Reverse a String in My Career! Why do these questions still come up in Interviews?](https://medium.datadriveninvestor.com/i-never-had-to-reverse-a-string-in-my-career-why-do-these-questions-still-come-up-in-interviews-dab13b05f68d?source=rss-30594823f191------2)
 - [Top Mistakes Developers Make While Redesigning](https://levelup.gitconnected.com/top-mistakes-developers-make-while-redesigning-1603340b2788?source=rss-30594823f191------2)
 - [Hike to Double Decker Living Root Bridge](https://byrslf.co/hike-to-double-decker-living-root-bridge-80829c28c2fb?source=rss-30594823f191------2)
 - [Use Database Transaction Logs To Implement Observer Pattern](https://levelup.gitconnected.com/use-database-transaction-logs-to-implement-observer-pattern-1e6fc0b03128?source=rss-30594823f191------2)
-- [Avoid Reading Too Many Side-Hustle Stories. It’s Addictive Like Porn!](https://medium.com/feedium/avoid-reading-too-many-side-hustle-stories-its-addictive-like-porn-d5814c1376d6?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
