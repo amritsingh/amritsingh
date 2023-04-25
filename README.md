@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Curse of Being a Cloud Developer](https://medium.com/noob2star/the-curse-of-being-a-cloud-developer-fb95da7a64c6?source=rss-30594823f191------2)
 - [How an Over-Reliance On QA Backfires — The Subtle Art of Man Bashing](https://levelup.gitconnected.com/how-an-over-reliance-on-qa-backfires-the-subtle-art-of-man-bashing-a57757fa1d7f?source=rss-30594823f191------2)
 - [Metaverse: The Solution to Over-Tourism and the Future of Traveling](https://medium.com/illumination/metaverse-the-solution-to-over-tourism-and-the-future-of-traveling-b3be93f7efcd?source=rss-30594823f191------2)
 - [EC2 VS. ECS―Which One Should You Choose For Your AWS Application?](https://aws.plainenglish.io/ec2-vs-ecs-which-one-should-you-choose-for-your-aws-application-74ffb04441f3?source=rss-30594823f191------2)
 - [A Typo Can Cause $18 Million Dollars](https://medium.com/noob2star/a-typo-can-cause-18-million-dollars-97087261cab5?source=rss-30594823f191------2)
-- [I Never Had to Reverse a String in My Career! Why do these questions still come up in Interviews?](https://medium.datadriveninvestor.com/i-never-had-to-reverse-a-string-in-my-career-why-do-these-questions-still-come-up-in-interviews-dab13b05f68d?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
