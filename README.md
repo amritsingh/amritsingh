@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_amrit_" target="blank"><img src="https://img.shields.io/twitter/follow/_amrit_?logo=twitter&style=for-the-badge" alt="_amrit_" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Kubernetes and Yoga**
+- 🌱 I’m currently learning **Flutter, Kubernetes and Yoga**
 
 - 📝 I regularly write articles on [https://singhamrit.medium.com/](https://singhamrit.medium.com/)
 
