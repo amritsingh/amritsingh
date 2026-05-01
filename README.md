@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Three Assumptions Our Background Job System Made That Broke When We Started Running Agents](https://levelup.gitconnected.com/three-assumptions-our-background-job-system-made-that-broke-when-we-started-running-agents-f3f828314294?source=rss-30594823f191------2)
 - [AI Writes the Code. Nobody Writes the Why. We Found Out the Hard Way.](https://ai.plainenglish.io/ai-writes-the-code-nobody-writes-the-why-we-found-out-the-hard-way-7c284e3df802?source=rss-30594823f191------2)
 - [We Started Running AI Agents on Our Codebase. Here’s the Git Setup That Kept Things Sane.](https://ai.plainenglish.io/we-started-running-ai-agents-on-our-codebase-heres-the-git-setup-that-kept-things-sane-0b94b3af50ac?source=rss-30594823f191------2)
 - [Artificial Intelligence Is Ready To Reinvent Our Education System For Better](https://medium.com/noob2star/artificial-intelligence-is-ready-to-reinvent-our-education-system-for-better-ce7da972f89d?source=rss-30594823f191------2)
 - [Is Native Mobile Apps Development Dead?](https://medium.com/noob2star/is-native-mobile-apps-development-dead-125587f1719b?source=rss-30594823f191------2)
-- [5 Myths You Need To Eliminate Before Developing An MVP](https://medium.com/noob2star/5-myths-you-need-to-eliminate-before-developing-an-mvp-1b2858ca4f9c?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
