@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rate Limiting Mistake That Cost Us a 4 am Call](https://levelup.gitconnected.com/the-rate-limiting-mistake-that-cost-us-a-4-am-call-d01659bfd31c?source=rss-30594823f191------2)
 - [Every Gem You Add Is a Dependency You Now Own](https://levelup.gitconnected.com/every-gem-you-add-is-a-dependency-you-now-own-e49496ae56cb?source=rss-30594823f191------2)
 - [Our Go Service Looked Fine in Staging. Ten Thousand Users Proved Otherwise.](https://medium.com/noob2star/our-go-service-looked-fine-in-staging-ten-thousand-users-proved-otherwise-deba9902c5a1?source=rss-30594823f191------2)
 - [We Scaled to Millions of Requests Without Kubernetes — Here’s What We Actually Used](https://levelup.gitconnected.com/we-scaled-to-millions-of-requests-without-kubernetes-heres-what-we-actually-used-71ba2ef75a7e?source=rss-30594823f191------2)
 - [What I’d Focus on in Golang If I Were Starting Backend Development Today](https://levelup.gitconnected.com/what-id-focus-on-in-golang-if-i-were-starting-backend-development-today-2e8bddd45224?source=rss-30594823f191------2)
-- [Three Assumptions Our Background Job System Made That Broke When We Started Running Agents](https://levelup.gitconnected.com/three-assumptions-our-background-job-system-made-that-broke-when-we-started-running-agents-f3f828314294?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
