@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [When You’ve Outgrown the Tool You Picked — Even If You Built It](https://levelup.gitconnected.com/when-youve-outgrown-the-tool-you-picked-even-if-you-built-it-55c352bd8985?source=rss-30594823f191------2)
 - [We Built Our AI Feature Like a Monolith. It Collapsed Like One Too.](https://singhamrit.medium.com/we-built-our-ai-feature-like-a-monolith-it-collapsed-like-one-too-eb7954390655?source=rss-30594823f191------2)
 - [The Wrong Team Is Building Your AI Database Features](https://levelup.gitconnected.com/the-wrong-team-is-building-your-ai-database-features-18501cd4dc80?source=rss-30594823f191------2)
 - [The Rate Limiting Mistake That Cost Us a 4 am Call](https://levelup.gitconnected.com/the-rate-limiting-mistake-that-cost-us-a-4-am-call-d01659bfd31c?source=rss-30594823f191------2)
 - [Every Gem You Add Is a Dependency You Now Own](https://levelup.gitconnected.com/every-gem-you-add-is-a-dependency-you-now-own-e49496ae56cb?source=rss-30594823f191------2)
-- [Our Go Service Looked Fine in Staging. Ten Thousand Users Proved Otherwise.](https://medium.com/noob2star/our-go-service-looked-fine-in-staging-ten-thousand-users-proved-otherwise-deba9902c5a1?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
