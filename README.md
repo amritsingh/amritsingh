@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Go Engineering Lessons I Learned the Hard Way](https://levelup.gitconnected.com/7-go-engineering-lessons-i-learned-the-hard-way-c1428bffdd95?source=rss-30594823f191------2)
 - [The LLM Is Not Your Product. The Celery Worker That Calls It Is.](https://medium.com/noob2star/the-llm-is-not-your-product-the-celery-worker-that-calls-it-is-8a6e8b571cf1?source=rss-30594823f191------2)
 - [Why Adding More Indexes Won’t Fix Your Slow Go Queries &lpar;And What Does&rpar;](https://medium.com/noob2star/why-adding-more-indexes-wont-fix-your-slow-go-queries-and-what-does-ae0bc05bdf4a?source=rss-30594823f191------2)
 - [We Started Using AI Coding Assistants on Our Rails Codebase. Here’s What Actually Works.](https://ai.plainenglish.io/we-started-using-ai-coding-assistants-on-our-rails-codebase-heres-what-actually-works-5a6b87858d4e?source=rss-30594823f191------2)
 - [When You’ve Outgrown the Tool You Picked — Even If You Built It](https://levelup.gitconnected.com/when-youve-outgrown-the-tool-you-picked-even-if-you-built-it-55c352bd8985?source=rss-30594823f191------2)
-- [We Built Our AI Feature Like a Monolith. It Collapsed Like One Too.](https://singhamrit.medium.com/we-built-our-ai-feature-like-a-monolith-it-collapsed-like-one-too-eb7954390655?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
