@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Stopped Wrapping Everything in if err != nil. Here&#39;s the Pattern We Landed On.](https://medium.com/noob2star/i-stopped-wrapping-everything-in-if-err-nil-heres-the-pattern-we-landed-on-f480174764e4?source=rss-30594823f191------2)
 - [Why Replacing Developers With AI Fails on Real Production Code](https://medium.com/noob2star/why-replacing-developers-with-ai-fails-on-real-production-code-f3b4b9905892?source=rss-30594823f191------2)
 - [7 Go Engineering Lessons I Learned the Hard Way](https://levelup.gitconnected.com/7-go-engineering-lessons-i-learned-the-hard-way-c1428bffdd95?source=rss-30594823f191------2)
 - [The LLM Is Not Your Product. The Celery Worker That Calls It Is.](https://medium.com/noob2star/the-llm-is-not-your-product-the-celery-worker-that-calls-it-is-8a6e8b571cf1?source=rss-30594823f191------2)
 - [Why Adding More Indexes Won’t Fix Your Slow Go Queries &lpar;And What Does&rpar;](https://medium.com/noob2star/why-adding-more-indexes-wont-fix-your-slow-go-queries-and-what-does-ae0bc05bdf4a?source=rss-30594823f191------2)
-- [We Started Using AI Coding Assistants on Our Rails Codebase. Here’s What Actually Works.](https://ai.plainenglish.io/we-started-using-ai-coding-assistants-on-our-rails-codebase-heres-what-actually-works-5a6b87858d4e?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
