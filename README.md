@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruby on Rails Feels Amazing. Until Your Codebase Hits 200,000 Lines](https://levelup.gitconnected.com/ruby-on-rails-feels-amazing-until-your-codebase-hits-200-000-lines-d123d373bfc7?source=rss-30594823f191------2)
 - [I Stopped Wrapping Everything in if err != nil. Here&#39;s the Pattern We Landed On.](https://medium.com/noob2star/i-stopped-wrapping-everything-in-if-err-nil-heres-the-pattern-we-landed-on-f480174764e4?source=rss-30594823f191------2)
 - [Why Replacing Developers With AI Fails on Real Production Code](https://medium.com/noob2star/why-replacing-developers-with-ai-fails-on-real-production-code-f3b4b9905892?source=rss-30594823f191------2)
 - [7 Go Engineering Lessons I Learned the Hard Way](https://levelup.gitconnected.com/7-go-engineering-lessons-i-learned-the-hard-way-c1428bffdd95?source=rss-30594823f191------2)
 - [The LLM Is Not Your Product. The Celery Worker That Calls It Is.](https://medium.com/noob2star/the-llm-is-not-your-product-the-celery-worker-that-calls-it-is-8a6e8b571cf1?source=rss-30594823f191------2)
-- [Why Adding More Indexes Won’t Fix Your Slow Go Queries &lpar;And What Does&rpar;](https://medium.com/noob2star/why-adding-more-indexes-wont-fix-your-slow-go-queries-and-what-does-ae0bc05bdf4a?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
