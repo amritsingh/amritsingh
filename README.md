@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Models Are Good Enough for Code Review. Not Sure Why We Waited.](https://levelup.gitconnected.com/open-source-models-are-good-enough-for-code-review-not-sure-why-we-waited-8d9876e0162f?source=rss-30594823f191------2)
 - [We Became 40% Faster. We Also Became Worse Engineers.](https://medium.com/noob2star/we-became-40-faster-we-also-became-worse-engineers-00e60b8eac2d?source=rss-30594823f191------2)
 - [AI Wrote More Code Than Ever. Our Team Got Slower.](https://levelup.gitconnected.com/ai-wrote-more-code-than-ever-our-team-got-slower-d44878d5c150?source=rss-30594823f191------2)
 - [How to Collect Server Events Across Hundreds of Microservices](https://levelup.gitconnected.com/how-to-collect-server-events-across-hundreds-of-microservices-1c4937cf2d23?source=rss-30594823f191------2)
 - [When AI Writes the First 80%, What Does the Backend Engineer Actually Do?](https://medium.com/noob2star/when-ai-writes-the-first-80-what-does-the-backend-engineer-actually-do-7ae40dbd9af7?source=rss-30594823f191------2)
-- [LangChain vs CrewAI: A Backend Engineer’s Decision](https://singhamrit.medium.com/langchain-vs-crewai-a-backend-engineers-decision-c90ed1e013c5?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
