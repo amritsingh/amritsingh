@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [We Kept Loading The Biggest Model That Fit In VRAM. That Was The Wrong Constraint.](https://levelup.gitconnected.com/we-kept-loading-the-biggest-model-that-fit-in-vram-that-was-the-wrong-constraint-3f3281d58934?source=rss-30594823f191------2)
 - [We Let An LLM Judge Its Own Work. It Approved Everything.](https://levelup.gitconnected.com/we-let-an-llm-judge-its-own-work-it-approved-everything-179171a016e1?source=rss-30594823f191------2)
 - [Running an AI Coding Model Locally Isn’t About Speed.](https://levelup.gitconnected.com/running-an-ai-coding-model-locally-isnt-about-speed-451a1c0150db?source=rss-30594823f191------2)
 - [Your AI Agent Doesn’t Need a Better Prompt. It Needs a Loop That Knows When to Stop.](https://levelup.gitconnected.com/your-ai-agent-doesnt-need-a-better-prompt-it-needs-a-loop-that-knows-when-to-stop-dedaa48c65f9?source=rss-30594823f191------2)
 - [Open Source Models Are Good Enough for Code Review. Not Sure Why We Waited.](https://levelup.gitconnected.com/open-source-models-are-good-enough-for-code-review-not-sure-why-we-waited-8d9876e0162f?source=rss-30594823f191------2)
-- [We Became 40% Faster. We Also Became Worse Engineers.](https://medium.com/noob2star/we-became-40-faster-we-also-became-worse-engineers-00e60b8eac2d?source=rss-30594823f191------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
